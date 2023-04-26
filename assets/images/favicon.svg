@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<title>app_logo</title>
+	<defs>
+		<image  width="14" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAYCAMAAAD9GTxlAAAAAXNSR0IB2cksfwAAAUpQTFRF7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJpAAAA7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp7TJp/V8+/V8++FJK7jVm7TJp7TJp7TNo/V8+/V8+/V8++VNK7jRo7TJp7TJp/V8+/V8+/V4/901P7jVm/V8+/V8+9kxR7TJp7TJp/V8+/V8+/V8+7TJp7TJp7TJp/V8+/V8+/V8+/V8+7TFp7TJp7TJp7TJp7TJp/V8+/V8+/V8+/V8+/WA+7TJp/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+/V8+Kg+eGAAAAG50Uk5TEjIzFGD7/2Zl/lr3QOfz21sc0s5EOACW9oRO8C4DDILdbQ8cQF38mzkCYv3////v12X+//72V/WEofU+53cKeMwUyMofASGHl0YBlPSGAAQ53/ZYCoPmawUI0NZ6MxlJ6PjZzFTjZjClN4zdCSUpqLNbAAAA30lEQVR4nFXOWVtBURSH8ZWiyNDAUoTm0FKcBsqc5knJFI5GzX3/29Y++zx03pv9/G7WfwMMmQYNw4jZMmgUxqwG2sYNtDv4cbpkEzA5xZx2e7QA0MucmUUZoM/PdswFdAZD4sj8wqLGpeWVVWHnWjjCjK5TbEPObMZ9kFBoa3unv7ubJFJSe/s60xkiyubyBavG4gGzdIhHx7aT0zM4v2BeXl3zSjlYBry5ZVfuqvo3qjUm1RtNSbxvCSvtjtptMvHhUZienl9eBTHdI9mbRnz/MBDx8+v7P/HnV1XV4h/ITCtQ6QmEJwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="11" y="6"/>
+</svg>
