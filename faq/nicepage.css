@@ -19431,7 +19431,7 @@ h6 {
 }
 .u-body {
   color: #111111;
-  background-color: #ffffff;
+  background-color: #fbf9f9d9;
 }
 /*end-variables color*/
 /*begin-variables font*/
@@ -24277,6 +24277,9 @@ a.u-link.u-hover-grey-75:hover {
 .u-table-alt-grey-80 tr:nth-child(even) {
   color: #ffffff;
   background-color: #333333;
+}
+.u-primary-3 {
+  background-color: #1DA0F1 !important;
 }
 .u-button-style.u-grey-80,
 .u-button-style.u-grey-80[class*="u-border-"] {
